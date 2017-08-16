@@ -1,4 +1,2 @@
 language: node_js
-deploy:
-  on:
-    branch: master
+dist: precise
