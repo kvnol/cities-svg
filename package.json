@@ -1,0 +1,23 @@
+{
+  "name": "svg-cities",
+  "version": "1.0.0",
+  "description": "A collection of logos and symbols of cities in SVG.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvnol/svg-cities.git"
+  },
+  "keywords": [
+    "svg",
+    "logos"
+  ],
+  "author": "@kvnol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvnol/svg-cities/issues"
+  },
+  "homepage": "https://github.com/kvnol/svg-cities#readme"
+}
