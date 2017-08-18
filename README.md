@@ -5,5 +5,10 @@
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
 </p>
 
+## Author
+| ![Kevin Oliveira](https://github.com/kvnol.png?size=100px) |
+| --- |
+| [Kevin Oliveira](https://github.com/kvnol) |
+
 ## License
-[MIT](/LICENSE) &copy; Kevin Oliveira
+Code is under [MIT License](/LICENSE) - &copy; Kevin Oliveira
